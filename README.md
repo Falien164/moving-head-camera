@@ -9,19 +9,19 @@ Made by myself board is communicating with endpoint user device by UART.
 
 
 ### 3D board
-<img src="https://github.com/Falien164/object_tracking/blob/master/img/3d_board.png" width="400" height="400">
+<img src="https://github.com/Falien164/object_tracking/blob/master/images/3d_board.png" width="400" height="400">
 
 ### board
-<img src="https://github.com/Falien164/object_tracking/blob/master/img/board.png" width="400" height="400">
+<img src="https://github.com/Falien164/object_tracking/blob/master/images/board.png" width="400" height="400">
 
 ### speed control diagram
-<img src="https://github.com/Falien164/object_tracking/blob/master/img/speed.png" width="400" height="400">
+<img src="https://github.com/Falien164/object_tracking/blob/master/images/speed.png" width="400" height="400">
 
 ### position control diagram
-<img src="https://github.com/Falien164/object_tracking/blob/master/img/position.png" width="400" height="400">
+<img src="https://github.com/Falien164/object_tracking/blob/master/images/position.png" width="400" height="400">
 
 ### 3D board
-<img src="https://github.com/Falien164/object_tracking/blob/master/img/device.png" width="400" height="400">
+<img src="https://github.com/Falien164/object_tracking/blob/master/images/device.png" width="400" height="400">
 
 ### Test of object tracking 
-<img src="https://github.com/Falien164/object_tracking/blob/master/img/object_tracking.png" width="400" height="400">
+<img src="https://github.com/Falien164/object_tracking/blob/master/images/object_tracking.png" width="400" height="400">
